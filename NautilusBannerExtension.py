@@ -1,12 +1,12 @@
 """
 Author: Ben Knisley [benknisley@gmail.com]
 Created: 27 January, 2022
-
+Title: NautilusBannerExtension
+Description:
 Nautilus extension that provides an way to display a custom text banner at the 
-top of a Nautilus window. 
-
-Scans each folder displayed by Nautilus for a file named '.banner', if found the 
-text inside the file is displayed on the banner at the top of the window.
+top of a Nautilus window. Scans each folder displayed by Nautilus for a file 
+named '.banner', if found the text inside the file is displayed on the banner at
+the top of the window.
 """
 import os
 import gi
