@@ -1,4 +1,4 @@
-NautilusBannerExtension
+Nautilus Banner Extension
 =
 Nautilus extension that provides an way to display a custom text banner at the 
 top of a Nautilus window. Scans each folder displayed by Nautilus for a file 
